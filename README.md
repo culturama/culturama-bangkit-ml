@@ -20,6 +20,7 @@ At this stage we take data from Kaggle.
 This step used to investigate data regarding characteristics, patterns, anomalies, and checking assumptions. At this stage we carry out data exploration, such as checking the data type for each column and the amount of data from each column.
 
 3. Data Preparation
+
 This step used to prepare raw data so that it is ready for further processing and analysis.
 At this step, what we do is deleting unused columns, check for missing values,
 and checking for duplicate data so that the data to be modeled is clean with no errors.
@@ -30,5 +31,6 @@ This step used to build a model that will be processed.
 The step we carry out are splitting training data and validation data and dividing train data with test data and then after, it builds our model using collaborative filtering.
 
 5. Conclusion
+
 The last step were used to draw a conclusion from the results that have been carried out.
 At this step we can conclude that the system has succeeded in making good recommendations using a collaborative filtering approach.
