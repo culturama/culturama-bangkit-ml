@@ -31,4 +31,4 @@ The step we carry out are splitting training data and validation data and dividi
 
 5. Conclusion
 The last step were used to draw a conclusion from the results that have been carried out.
-At this step we can conclude that the system has succeeded in making good recommendations using a collaborative filtering.approach.
+At this step we can conclude that the system has succeeded in making good recommendations using a collaborative filtering approach.
